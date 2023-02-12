@@ -1,6 +1,6 @@
-drop database if exists driverTruck;
+drop database if exists drivertruck;
 
-create database driverTruck;
+create database drivertruck;
 
 use drivertruck;
 
